@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-Medsurance is an AI-powered conversational assistant designed to simplify the often overwhelming process of exploring health insurance plans in the U.S.
+Medisure is an AI-powered conversational assistant designed to simplify the often overwhelming process of exploring health insurance plans in the U.S.
 
 Through natural language interaction, users can:
 
@@ -111,7 +111,7 @@ match your local SQL configuration.
 
 ---
 
-# 🌍 Connecting to Dialogflow
+#  Connecting to Dialogflow
 
 Dialogflow (ES or CX) is used to interpret user input and trigger backend logic.
 
